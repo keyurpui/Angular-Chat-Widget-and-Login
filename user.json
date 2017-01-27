@@ -1,0 +1,41 @@
+{
+  "users": {
+    "user1":{
+      "department":"Probate Accounting",
+      "credit":"1 credit",
+      "name":"John M.Smith",
+      "city":"San francisco",
+      "time":"Sep 9, 7:00PM -9:00PM",
+      "member":"Member : $15.00",
+      "nomember":"Nomemeber : $25.00"
+    },
+    "user2": {
+      "department":"Estat Accounting",
+      "credit":"2 Credit",
+      "name":"Williams H.Downs",
+      "city":"San Fernando valley",
+      "time":"Sep 9, 7:00PM -9:00PM",
+      "member":"Member : $15.00",
+      "nomember":"Nomemeber : $25.00"
+    },
+    "user3": {
+      "department":"Clearing Up",
+      "credit":"1 Credit",
+      "name":"John M Smith",
+      "city":"Webcast",
+      "time":"Sep 9, 7:00PM -9:00PM",
+      "member":"Member : $35.00",
+      "nomember":"Nomemeber : $45.00"
+    },
+    "user4": {
+      "department":"FR Chapter",
+      "credit":"1 Credit",
+      "name":"John M Smith",
+      "city":"Webcast",
+      "time":"Sep 9, 7:00PM -9:00PM",
+      "member":"Member : $35.00",
+      "nomember":"Nomemeber : $45.00"
+    }
+  }
+
+}

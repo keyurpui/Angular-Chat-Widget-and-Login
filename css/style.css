@@ -1,0 +1,199 @@
+
+/* Global Styles */
+
+html,
+body {
+    height: 100%;
+}
+a{
+    color: #000000 !important;
+}
+.header_top{
+    text-align: center;
+    margin: 0px !important;
+    padding: 0px !important;
+    /* padding: 9px; */
+    /* border-radius: 3px; */
+    min-height: 20px;
+    padding: 19px;
+    /* margin-bottom: 20px; */
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    /* border-radius: 4px; */
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
+
+.hader_left{
+
+    position: relative;
+    min-height: 120px;
+}
+
+
+.header_top_txt{
+    text-align: center;
+    margin-top: 5px;
+}
+.btn_cart{
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+}
+.btn_cart .btn{
+    padding: 8px 35px;
+    color: #fff;
+    background-color: #979797;
+    border-radius: initial !important;
+    border: none;
+}
+
+.header_main{
+    width: 100%;
+    background-color:#D8D8D8;
+    padding: 10px 0px 10px 0px;
+}
+.search_header{
+
+    width: 100%;
+    background-color:#D8D8D8;
+}
+.credit_numbers h1{margin: 0px !important;vertical-align: initial;}
+.customer_box{border:1px solid #000000;}
+.span_space{    margin-right: 15px;}
+.cst_ls_btn{margin-top:20px;}
+.cst_ls_btn .second_btn{
+    margin-bottom: 0px !important;
+}
+.cst_ls_btn .btn{
+    color: #ffffff;
+    width: 150px;
+    background-color: #979797;
+    border-radius: initial !important;
+    border: none;
+    margin-bottom: 10px;
+}
+.progress_bar {
+    display: none;
+    top: -15%;
+    text-align: center;
+    z-index: 9999;
+    left: 5%;
+    background-color:#EFEFEF;
+    padding: 20px;
+    width: 100%;
+    position: absolute;
+}
+
+.cdColor{
+display: block;
+}
+.progress_bar_middle
+{
+    padding: 5px 0px 5px 0px;
+    margin-bottom: 5px;
+    line-height: 10px;
+}
+.header_line{
+    border-bottom: 3px solid black;
+ }
+.header_line h3{
+    font-weight: bold;
+ }
+.left_arrow{
+    margin-left:50px ;
+}
+.textleft{
+    text-align: right;
+}
+.courseBox{
+    padding: 10px 0px 10px 0px;
+    border-bottom: 1px solid black;
+}
+.btnMdl{
+
+    text-align: center;
+    margin-top: 20px;
+}
+.btnExp{
+    margin: 5px;
+    width: 80%;
+    border-radius: 50px !important;
+    background-color: darkorange !important;
+}
+.btnPre{
+    background-color: coral !important;
+}
+.main_user_header{
+    text-align: center;
+    margin-top: 65px;
+}
+.min_user_course{
+    text-align: center;
+    margin-top: 50px;
+}
+.get_top{
+    margin-top: 78px;
+}
+
+
+
+.chat
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.chat li
+{
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #B3A9A9;
+}
+
+.chat li.left .chat-body
+{
+    margin-left: 60px;
+}
+
+.chat li.right .chat-body
+{
+    margin-right: 60px;
+}
+
+
+.chat li .chat-body p
+{
+    margin: 0;
+    color: #777777;
+}
+
+.panel .slidedown .glyphicon, .chat .glyphicon
+{
+    margin-right: 5px;
+}
+
+.panel-body
+{
+    overflow-y: scroll;
+    height: 250px;
+}
+
+::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar
+{
+    width: 12px;
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #555;
+}
